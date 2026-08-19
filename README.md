@@ -44,8 +44,10 @@ Under development. Private until v1 release.
 
 ## License
 
-Apache 2.0
+**PolyForm Small Business License 1.0.0** — with irrevocable carve-outs for academic/research use and for tribal sovereign entities (free regardless of revenue).
+See [LICENSE](LICENSE).
 
+> Previously Apache 2.0. See [MIGRATION.md](MIGRATION.md) — no released version is affected (0 releases, 0 forks at time of change).
 ---
 
 *For Seven Generations.*
